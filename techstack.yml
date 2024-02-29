@@ -1,0 +1,43 @@
+repo_name: 2lambda123/GeometricTools.jl
+report_id: 5f320205f86dcb2ad0b37140784c7911
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:13:08+00:00'
+requested_by: EdoAlvarezR
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/GeometricTools.jl
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/GeometricTools.jl
+  detection_source: Repo Metadata
+- name: Julia
+  description: A high-level, high-performance dynamic programming language for technical
+    computing
+  website_url: http://pkg.julialang.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package_manager/3914/default_a30825f60d1159a8bca0d7d45c4988f63eeb2b0f.png
+  detection_source_url: https://github.com/2lambda123/GeometricTools.jl
+  detection_source: Repo Metadata
